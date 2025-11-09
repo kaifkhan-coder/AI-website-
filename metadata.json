@@ -1,0 +1,5 @@
+{
+  "name": "AI Website Weaver",
+  "description": "An AI-powered tool that allows you to generate, preview, and download complete, single-file websites based on a simple text description. Describe your vision, and let the AI weave the code for you.",
+  "requestFramePermissions": []
+}
